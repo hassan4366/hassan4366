@@ -29,8 +29,8 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python?style=flat&logo=Python&logoColor=%23eeee&labelColor=%230068B5&color=%230068B5)
-![C++](https://img.shields.io/badge/-C%2B%2B?style=flat&logo=C%2B%2B&logoColor=blue&labelColor=%23eeee&color=%230068B5)
+![Python][(https://img.shields.io/badge/-Python?style=flat&logo=Python&logoColor=%23eeee&labelColor=%230068B5&color=%230068B5)](https://img.shields.io/badge/-Python?style=flat&logo=Python&logoColor=ffffff&label=Python&labelColor=1877F2&color=1877F2)
+![C++][(https://img.shields.io/badge/-C%2B%2B?style=flat&logo=C%2B%2B&logoColor=blue&labelColor=%23eeee&color=%230068B5)](https://img.shields.io/badge/-C%2B%2B?style=flat&logo=C%2B%2B&logoColor=ffffff&label=C%2B%2B&labelColor=1877F2&color=1877F2)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4366&hide_progress=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4366&layout=compact)
