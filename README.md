@@ -27,13 +27,14 @@ I'm a software developer with a strong passion for creating visually appealing a
 <a href="https://codeforces.com/profile/Hassan657"><img
     src="https://img.shields.io/badge/-Codeforces?style=flat&logo=Codeforces&logoColor=ffffff&label=Codeforces&labelColor=%230068B5&color=%230068B5" alt="Facebook"></a>
 </p>
+## Programming Languages:
+
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py)
 
 ### 🛠 &nbsp;Technologies that I work with
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python?style=flat&logo=Python&logoColor=ffffff&label=Python&labelColor=1877F2&color=1877F2)
-![C++](https://img.shields.io/badge/-C%2B%2B?style=flat&logo=C%2B%2B&logoColor=ffffff&label=C%2B%2B&labelColor=1877F2&color=1877F2)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4366&hide_progress=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4366&layout=compact)
