@@ -29,7 +29,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 </p>
 ## Programming Languages:
 
-![Programming Languages](https://skillicons.dev/icons?i=cpp,py)
+![Programming Languages](https://skillicons.dev/icons?i=cpp,py,c#)
 
 ## Frontend Technologies:
 
