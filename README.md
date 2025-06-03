@@ -3,7 +3,8 @@
 <img align="right" src="![Capture](https://github.com/user-attachments/assets/9cf2641b-c7af-4ffc-af15-ef81c23f525c)
 " width="30%">
 <div align="center">
-  <h2>Hi <span><img src="Assets/waving-hand.gif" width="20px"/></span>, I'm Hassan Hammam</h2>
+  <h2>Hi 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Hassan Hammam</h2>
 </div>
 <p>
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
