@@ -29,12 +29,15 @@ I'm a software developer with a strong passion for creating visually appealing a
 </p>
 ## Programming Languages:
 
-![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py)
+![Programming Languages](https://skillicons.dev/icons?i=cpp,py)
 
-### 🛠 &nbsp;Technologies that I work with
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+## Frontend Technologies:
+
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,react)
+## Tools:
+
+![Tools](https://skillicons.dev/icons?i=bash,git,github,vscode)
+
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4366&hide_progress=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4366&layout=compact)
