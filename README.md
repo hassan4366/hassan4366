@@ -29,11 +29,11 @@ I'm a software developer with a strong passion for creating visually appealing a
 </p>
 ## Programming Languages:
 
-![Programming Languages](https://skillicons.dev/icons?i=cpp,py,c,R,sql)
+![Programming Languages](https://skillicons.dev/icons?i=cpp,py,c)
 
 ## Frontend Technologies:
 
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,react)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,js,react,sql)
 ## Tools:
 
 ![Tools](https://skillicons.dev/icons?i=bash,git,github,vscode,kaggle)
