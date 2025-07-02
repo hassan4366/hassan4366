@@ -33,10 +33,10 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 ## Frontend Technologies:
 
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react)
 ## Tools:
 
-![Tools](https://skillicons.dev/icons?i=bash,git,github,vscode,kaggle)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,kaggle)
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4366&hide_progress=true) -->
