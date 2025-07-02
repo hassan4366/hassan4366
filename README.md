@@ -33,7 +33,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 ## Frontend Technologies:
 
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,Tailwind)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind)
 ## Tools:
 
 ![Tools](https://skillicons.dev/icons?i=bash,git,github,vscode,kaggle)
