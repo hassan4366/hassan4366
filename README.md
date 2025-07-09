@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-<br><br>
+![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <div align="center">
   <h2>Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Hassan Hammam</h2>
