@@ -36,9 +36,14 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,kaggle)
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4366&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan4366&layout=compact)
-<br>
-<a href="https://komarev.com/ghpvc/?username=hassan4366&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=hassan4366&style=for-the-badge">
-</a>
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hassan4366&show_icons=true&theme=shades-of-purple" alt="Hassan GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan4366&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=hassan4366&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=hassan4366&style=for-the-badge" alt="Profile Views">
+  </a>
+</p>
