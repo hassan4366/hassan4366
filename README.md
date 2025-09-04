@@ -21,13 +21,14 @@ I'm a software developer with a strong passion for creating visually appealing a
       <a href="hassanhammam436@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
  <a href="https://codeforces.com/profile/Hassan657" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="100" width="56" /></a>
 </p>
+
 ## Programming Languages:
 
 ![Programming Languages](https://skillicons.dev/icons?i=cpp,py,c)
 
 ## Frontend Technologies:
 
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,react,Next.js)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,react,next)
 ## Tools:
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,kaggle)
