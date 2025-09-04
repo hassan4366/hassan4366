@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/hassan4366/hassan4366/raw/main/assets/github.gif" alt="Hi, I'm Hassan 👋 I'm a 🚀 Frontend developer 🚀 I am also passionate about AI 🧠">
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+<br><br>
+<h1 align="center">Hi 👋, I'm H6ssan ibrahem</h1>
 <p>
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
@@ -20,11 +20,8 @@ I'm a software developer with a strong passion for creating visually appealing a
     <a href="https://www.facebook.com/share/15sUpguKEy/?mibextid=qi2Omg"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
       <a href="https://www.instagram.com/32_hassan_hammam?utm_source=qr&igsh=NjMyOWwzMW5rd2Zr"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
       <a href="hassanhammam436@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
- <a href="https://codeforces.com/profile/Hassan657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="50" width="100" /></a>
+ <a href="https://codeforces.com/profile/Hassan657" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="100" width="56" /></a>
 </p>
-<!-- <a href="https://codeforces.com/profile/Hassan657"><img
-    src="https://img.shields.io/badge/-Codeforces?style=flat&logo=Codeforces&logoColor=ffffff&label=Codeforces&labelColor=%230068B5&color=%230068B5" alt="Facebook"></a>
-</p> -->
 ## Programming Languages:
 
 ![Programming Languages](https://skillicons.dev/icons?i=cpp,py,c)
