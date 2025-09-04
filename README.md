@@ -12,7 +12,7 @@ I'm a software developer with a strong passion for creating visually appealing a
  
 
   
-## :link: Links
+## :link: Social Link
 
 <p align="center">
  <a href="https://linkedin.com/in/hassan-hammam-159981334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
@@ -22,7 +22,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 </p>
 
 ## :link: Link codeforce:
-<a href="https://codeforces.com/profile/Hassan657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Hassan657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="60" width="33" /></a>
 
 ## Programming Languages:
 
