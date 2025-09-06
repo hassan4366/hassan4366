@@ -34,7 +34,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,react,next)
 ## Tools:
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,kaggle)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupeter notebook)
 
 
 ### 📊 GitHub Statistics
