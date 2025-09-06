@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
 <br><br>
-<h2 align="center">Hi 👋, I'm H6ssan ibrahem</h2>
+<h2 align="center">Hi 👋, I'm H3ssan ibrahem</h2>
 <p>
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
@@ -34,7 +34,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,react,next)
 ## Tools:
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupeternotebook)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyternotebook)
 
 
 ### 📊 GitHub Statistics
