@@ -19,14 +19,12 @@ I'm a software developer with a strong passion for creating visually appealing a
   <a href="https://www.instagram.com/32_hassan_hammam?utm_source=qr&igsh=NjMyOWwzMW5rd2Zr">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="  https://www.facebook.com/share/15sUpguKEy/?mibextid=qi2Omg" margin-right="10px">
-    <img src="https://skillicons.dev/icons?i=facebook"/>
-  </a>
   <a href="mailto:hassanhammam436@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </div>
-## :link: Link codeforce:
+
+## Link codeforce:
 <a href="https://codeforces.com/profile/Hassan657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="60" width="33" /></a>
 
 ## Programming Languages:
