@@ -10,18 +10,22 @@ I'm a software developer with a strong passion for creating visually appealing a
 - 📚 Passionate about problem solving and developing effective, creative solutions.
 - 🧠 Also passionate about AI 
 - 🎯 Future Goals: Learn more web technologies - Create awesome websites.
- 
-
   
-## :link: Social Link
-
-<p align="center">
- <a href="https://linkedin.com/in/hassan-hammam-159981334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-    <a href="https://www.facebook.com/share/15sUpguKEy/?mibextid=qi2Omg"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-      <a href="https://www.instagram.com/32_hassan_hammam?utm_source=qr&igsh=NjMyOWwzMW5rd2Zr"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-      <a href="hassanhammam436@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-</p>
-
+## Social Link
+<div align="center" >
+  <a href="https://linkedin.com/in/hassan-hammam-159981334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/32_hassan_hammam?utm_source=qr&igsh=NjMyOWwzMW5rd2Zr">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="  https://www.facebook.com/share/15sUpguKEy/?mibextid=qi2Omg" margin-right="10px">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="mailto:hassanhammam436@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</div>
 ## :link: Link codeforce:
 <a href="https://codeforces.com/profile/Hassan657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="60" width="33" /></a>
 
