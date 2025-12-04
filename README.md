@@ -41,13 +41,10 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 
 ### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassan4366&show_icons=true&theme=shades-of-purple" alt="Hassan GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan4366&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=hassan4366&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=hassan4366&style=for-the-badge" alt="Profile Views">
+<div align="center">
+  <a  href="https://github.com/hassan4366">
+  <img src="https://raw.githubusercontent.com/hassan4366/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/hassan4366/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/hassan4366/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
   </a>
-</p>
+</div>
