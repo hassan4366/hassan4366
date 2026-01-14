@@ -1,6 +1,5 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
-
-<br><br>
+<br>
 <h1 align="center" style="margin-top:35">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Hassan+Hammam!;+Software+Engineer;" />
 </h1>
