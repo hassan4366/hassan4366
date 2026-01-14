@@ -8,7 +8,7 @@
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
 
-- 👨‍💻 I’m currently working on web development technologies like HTML & CSS & JavaScript & React.Js & Next.js
+- 👨‍💻 I’m currently working on web development technologies like HTML & CSS & JavaScript & React.Js & Bootstrap.
 - 📚 I’m currently learning about Frontend technologies.
 - 📚 Passionate about problem solving and developing effective, creative solutions.
 - 🧠 Also passionate about AI 
