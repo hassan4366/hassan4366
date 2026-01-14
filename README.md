@@ -1,7 +1,9 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 
 <br><br>
-<h2 align="center">Hi 👋, I'm H3ssan ibrahem</h2>
+<h1 align="center" style="margin-top:35">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Hassan Hammam!+😊;+Software Engineer" />
+</h1>
 <p>
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
@@ -41,10 +43,5 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 
 ### 📊 GitHub Statistics
-<div align="center">
-  <a  href="https://github.com/hassan4366">
-  <img src="https://raw.githubusercontent.com/hassan4366/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg"      width="32.5%">
-  <img src="https://raw.githubusercontent.com/hassan4366/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-     language.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/hassan4366/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-   language.svg" width="32.5%">
-  </a>
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hassan4366?cardType=github&theme=highcontrast&preferLogin=true&Ring=FFFEFE)](https://git.io/awesome-stats-card)
+
