@@ -59,7 +59,7 @@
 </div>
 
 ## Competitive Programming:
-<div align="center">
+<div>
   <a href="https://codeforces.com/profile/Hassan657">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
