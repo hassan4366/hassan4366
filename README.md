@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=280&section=header&text=Hassan%20Hammam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20%202%20%20&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=280&section=header&text=Hassan%20Hammam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20%20%20%20&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
-<br>
 <h1 align="center" style="margin-top:35">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Hassan+Hammam!;+Software+Engineer;" />
 </h1>
@@ -55,37 +54,19 @@
 
 </div>
 
-
-
-
-
-
-
-
-
-## Social Link
-<div align="center" >
-  <a href="https://linkedin.com/in/hassan-hammam-159981334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+## 🏆 Competitive Programming:
+<div align="center">
+  <a href="https://codeforces.com/profile/Hassan657">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://www.instagram.com/32_hassan_hammam?utm_source=qr&igsh=NjMyOWwzMW5rd2Zr">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="mailto:hassanhammam436@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="https://leetcode.com/u/1MgCTjtlNy/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </div>
 
-## Link codeforce:
-<a href="https://codeforces.com/profile/Hassan657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="60" width="33" /></a>
-
-## Programming Languages:
- <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png"> 
-<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png">  
-<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png">
 ## Frontend Technologies:
 
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,react,next)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,typescript,react,next)
 ## Tools:
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)
@@ -93,7 +74,3 @@
 
 ### 📊 GitHub Statistics
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hassan4366?cardType=github&theme=highcontrast&preferLogin=true&Ring=FFFEFE)](https://git.io/awesome-stats-card)
-
-### My_CV
-<a href="https://drive.google.com/drive/folders/1VbsEDiRlM1CSTiMTeAomRnd7pxdHi1L-">Click Here</a>
-
