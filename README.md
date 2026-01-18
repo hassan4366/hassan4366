@@ -7,12 +7,6 @@
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
 
-- 👨‍💻 I’m currently working on web development technologies like HTML & CSS & JavaScript & React.Js & Bootstrap.
-- 📚 I’m currently learning about Frontend technologies.
-- 📚 Passionate about problem solving and developing effective, creative solutions.
-- 🧠 Also passionate about AI 
-- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
-  
 ## Social Link
 <div align="center" >
   <a href="https://linkedin.com/in/hassan-hammam-159981334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -26,8 +20,10 @@ I'm a software developer with a strong passion for creating visually appealing a
   </a>
 </div>
 
-## Link codeforce:
+## Link codeforce and Leetcode:
 <a href="https://codeforces.com/profile/Hassan657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="60" width="33" /></a>
+
+<a href="https://codeforces.com/profile/Hassan657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg"  height="60" width="33" /></a>
 
 ## Programming Languages:
 
