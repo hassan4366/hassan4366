@@ -72,6 +72,9 @@
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)
 
+## operation system
+
+![Tools](https://skillicons.dev/icons?i=linux, windows, ubunt)
 
 ### GitHub Statistics:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hassan4366?cardType=github&theme=highcontrast&preferLogin=true&Ring=FFFEFE)](https://git.io/awesome-stats-card)
