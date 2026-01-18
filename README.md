@@ -34,17 +34,18 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## About Me
 <p>
    I'm a software developer with a strong passion for creating visually appealing and user-friendly websites.
    I’m currently learning about Frontend technologies.
    Passionate about problem solving and developing effective, creative solutions.
 </p>
 
-## 🛠️ Technical Skills
+## Technical Skills
 <div>
 
 ### Languages
+
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -54,7 +55,7 @@
 
 </div>
 
-## 🏆 Competitive Programming:
+## Competitive Programming:
 <div align="center">
   <a href="https://codeforces.com/profile/Hassan657">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
@@ -66,11 +67,11 @@
 
 ## Frontend Technologies:
 
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,typescript,react,next)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,next)
 ## Tools:
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)
 
 
-### 📊 GitHub Statistics
+### GitHub Statistics:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hassan4366?cardType=github&theme=highcontrast&preferLogin=true&Ring=FFFEFE)](https://git.io/awesome-stats-card)
