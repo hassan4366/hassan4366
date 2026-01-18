@@ -70,11 +70,11 @@
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,next)
 ## Tools:
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,cursor)
 
 ## operation system
 
-![Tools](https://skillicons.dev/icons?i=linux,windows,ubunt)
+![Tools](https://skillicons.dev/icons?i=linux,windows,ubuntu)
 
 ### GitHub Statistics:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hassan4366?cardType=github&theme=highcontrast&preferLogin=true&Ring=FFFEFE)](https://git.io/awesome-stats-card)
