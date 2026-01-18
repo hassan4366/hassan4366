@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ahmed%20Hossam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%202%20@%20noon&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hassan%20Hammam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900"> -->
 <br>
