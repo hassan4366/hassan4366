@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0EAFC,100:CFDEF3&height=280&section=header&text=Hassan%20Hammam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20%20%20%20&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=280&section=header&text=Hassan%20Hammam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20%20%20%20&descAlignY=51&descAlign=62" width="100%"/>
 </div>
+
 
 
 
