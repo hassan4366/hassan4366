@@ -68,9 +68,10 @@
 ## Frontend Technologies:
 
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,next)
+
 ## Tools:
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,cursor)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ## operation system
 
