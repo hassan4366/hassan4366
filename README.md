@@ -1,5 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ahmed%20Hossam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%202%20@%20noon&descAlignY=51&descAlign=62" width="100%"/>
+</div>
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900"> -->
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="500" />
 <br>
 <h1 align="center" style="margin-top:35">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Hassan+Hammam!;+Software+Engineer;" />
