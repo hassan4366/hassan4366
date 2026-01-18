@@ -23,11 +23,8 @@ I'm a software developer with a strong passion for creating visually appealing a
 ## Link codeforce and Leetcode:
 <a href="https://codeforces.com/profile/Hassan657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="60" width="33" /></a>
 
-<a href="https://codeforces.com/profile/Hassan657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg"  height="60" width="33" /></a>
-
 ## Programming Languages:
-
-![Programming Languages](https://skillicons.dev/icons?i=cpp,py,c)
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png
 
 ## Frontend Technologies:
 
