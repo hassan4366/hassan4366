@@ -1,14 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api
-?type=waving
-&height=280
-&section=header
-&text=Hassan%20Hammam
-&fontSize=90
-&fontColor=ffffff
-&animation=fadeIn
-&fontAlignY=38
-&color=0:4FC3F7,100:81D4FA" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Hassan%20Hammam&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:4FC3F7,100:81D4FA" width="100%"/>
+
 
 </div>
 
