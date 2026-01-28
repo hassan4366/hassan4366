@@ -26,7 +26,7 @@
   <a href="https://drive.google.com/drive/folders/1VbsEDiRlM1CSTiMTeAomRnd7pxdHi1L-">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
   </a>
-  <a href="#">
+  <a href="https://devh6ssan.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
