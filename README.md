@@ -43,9 +43,8 @@
 <p>
    I'm a software developer with a strong passion for creating visually appealing and user-friendly websites.
    I’m currently learning about Frontend technologies.
-   Passionate about problem solving and developing effective, creative solutions.
+   Passionate about problem-solving and developing effective, creative solutions.
 </p>
-<p>Member <a href ="https://github.com/CS-ZSC">IEEE-ZSB</a></p>
 
 
 ## Technical Skills
