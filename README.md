@@ -23,7 +23,7 @@
   <a href="https://wa.me/0201283672442">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://drive.google.com/drive/folders/1VbsEDiRlM1CSTiMTeAomRnd7pxdHi1L-">
+  <a href="https://drive.google.com/file/d/1eG98ACrkECwmLpo9WQh9JGoMI9875bLy/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://profileh3ssan.vercel.app/">
